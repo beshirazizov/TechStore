@@ -1,2 +1,2 @@
 # TechStore
-C# Windows forms app
+Fully finctional C# app for tech store.
